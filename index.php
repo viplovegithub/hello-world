@@ -2,4 +2,6 @@
 
 echo "hiiiiiiiiiiiii";
 
+echo "cooool";
+
 ?>
